@@ -1,0 +1,20 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 1.3rem 2.8rem;
+
+  font-family: inherit;
+  font-size: 1.6rem;
+  color: var(--primary);
+  font-weight: 700;
+  text-decoration: none;
+
+  background-color: var(--light);
+  border-radius: 4.4rem;
+}
+
+.btn-icon {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.8rem;
+}

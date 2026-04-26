@@ -1,0 +1,20 @@
+.nav {
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 2.4rem 0;
+
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.nav-link {
+  color: var(--light);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
